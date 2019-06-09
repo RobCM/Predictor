@@ -37,7 +37,7 @@ public class predictor_Main
 		Scanner selectChoice = new Scanner(System.in); 
 		System.out.println("What will you like to do?");
 		System.out.println("1. for number probability");
-		System.out.println("2. for Lotto drwing simulation");
+		System.out.println("2. for Lotto drawing simulation");
 		System.out.println("3. To exit");
 		int inputNum = selectChoice.nextInt();
 		
